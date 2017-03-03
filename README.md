@@ -1,7 +1,7 @@
 # CellCounter
 ImageJ Macro scripts for counting number of cells.
 
-Note: This scripts is not aimed for general use. It's just a demo to show you how to run Macro in ImageJ to count cell.
+Note: This scripts is not aimed for general use. It's just a demo to show how to run Macro in ImageJ to count cells.
 
 Usage:
 
